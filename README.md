@@ -1,38 +1,10 @@
-# 💰 Simple Interest Calculator
+# This is the README.md file for the **github-final-project**
 
-A lightweight and beginner-friendly calculator to compute **Simple Interest (SI)** based on user inputs.  
-This project is ideal for learning basic programming concepts, mathematical formulas, and user interaction.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
----
-
-## 📖 Formula
-
-The formula for calculating Simple Interest is:
-
-SI = (P * R * T)/100
-
-
-
-Where:
-- P = Principal amount  
-- R = Rate of interest (per annum)  
-- T = Time period (in years)  
-
----
-
-## 🚀 Features
-
-- Accepts user input for Principal, Rate, and Time  
-- Computes Simple Interest instantly  
-- Displays clear and formatted results  
-- Beginner-friendly code structure  
-- Can be extended to include **Compound Interest** or other financial calculations  
-
----
-
-## 🛠️ Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aswath575/simple-interest-calculator.git
-   cd simple-interest-calculator
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r/100
